@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">searchappdesafio</string>
+    <string name="search_screen_title">Desafio Mercado Livre!</string>
+    <string name="search_screen_field">"Busque aqui o produto desejado"</string>
+    <string name="search_button">"Buscar"</string>
+    <string name="search_error_not_found">Nenhum resultado para \'%1$s\'.</string>
+    <string name="search_suggestions_products">Produtos populares para você começar:</string>
+    <string name="search_error_empty">O campo de busca não pode estar vazio.</string>
+    <string name="search_suggestion_zapatilla">zapatillas</string>
+    <string name="search_suggestion_iphone">iphone</string>
+    <string name="search_suggestion_arroz">arroz</string>
+    <string name="search_suggestion_cafe">cafe</string>
+    <string name="search_suggestion_camisa">camisa</string>
+    <string name="search_suggestion_bermuda">bermudas</string>
+    <string name="result_installments_info">em %1$dx de %2$s</string>
+    <string name="result_free_shipping">Frete grátis</string>
+    <string name="result_product_image_content_description">Imagem do produto: %1$s</string>
+    <string name="loading_details">Carregando detalhes…</string>
+    <string name="detail_description">Descrição</string>
+    <string name="detail_attributes">Características principais</string>
+    <string name="detail_error_button_back">Voltar</string>
+    <string name="category_separator">\u0020›\u0020</string>
+    <string name="detail_error">Não foi possível encontrar os detalhes do produto. Tente novamente.</string>
+</resources>
